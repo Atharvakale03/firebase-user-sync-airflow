@@ -1,0 +1,3 @@
+apache-airflow
+firebase-admin
+mysql-connector-python
